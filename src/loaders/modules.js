@@ -81,5 +81,4 @@ class ModuleLoader {
   }
 }
 
-export const ModuleLoader = ModuleLoader;
 export default ModuleLoader;
